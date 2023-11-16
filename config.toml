@@ -10,7 +10,7 @@ relativeURLs = true
 uglyURLs = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-H5YCHQF6E4"
 
 # Copyright
 copyright = "&copy;2023 Sascha Krusbersky"
